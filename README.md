@@ -3,7 +3,7 @@
 Welcome to our Maze Game, where you can navigate, solve, and interact with dynamically generated mazes. Once the maze animation completes, it's ready for your input and exploration. Here's how you can interact with the maze:
 
 ## Getting Started
-Download: To play the game, download the JAR file from our website.
+Download: To play the game, download the JAR file from this repo.
 
 ## Controls
 
